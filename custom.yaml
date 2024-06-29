@@ -1,0 +1,13 @@
+path: C:\Users\srini\OneDrive\Desktop\Yolov8 Final\train_data  # path of pics
+train: C:\Users\srini\OneDrive\Desktop\Yolov8 Final\train_data\images\train  # train images (relative to 'path') 128 images
+val:  C:\Users\srini\OneDrive\Desktop\Yolov8 Final\train_data\images\val # val images (relative to 'path') 128 images
+
+# Classes
+names:
+  0: Human
+  #
+
+
+
+
+
